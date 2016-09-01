@@ -17,7 +17,7 @@ Want to use this inside a Laravel application? Check out the [Laravel-Forecast](
 Via Composer
 
 ``` bash
-$ composer require nwidart/forecast-php
+$ composer require sharmil/forecast-php
 ```
 
 ## Usage
