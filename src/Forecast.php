@@ -45,7 +45,7 @@ class Forecast
 
         $forecast = $this->getClient()->get($url);
 
-        return $forecast->json();
+        return json_decode($forecast->getBody());
     }
 
     /**
