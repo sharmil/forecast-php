@@ -1,5 +1,5 @@
 {
-    "name": "nwidart/forecast-php",
+    "name": "sharmil/forecast-php",
     "description": "PHP client package for the Forecast.io service",
     "keywords": [
         "php",
@@ -7,13 +7,19 @@
         "Forecast",
         "Weather"
     ],
-    "homepage": "https://github.com/nWidart/forecast-php",
+    "homepage": "https://github.com/sharmil/forecast-php",
     "license": "MIT",
     "authors": [
         {
             "name": "Nicolas Widart",
             "email": "n.widart@gmail.com",
             "homepage": "http://www.nicolaswidart.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Sharmil Shah",
+            "email": "sharmil@gmail.com",
+            "homepage": "http://www.sharmil.com",
             "role": "Developer"
         }
     ],
